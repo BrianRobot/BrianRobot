@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BrianRobot
-- I will be storing my code here as I learn and get better at programming. I hope to one day work at one of the majorcompanies as an SDE. Amazon, Google, etc,.
+- I will be storing my code here as I learn and get better at programming. I hope to one day work at one of the major companies as an SDE. Amazon, Google, etc,.
 - I am also looking to work on game development and modding as a hobby or full time job. 
 - 👀 I’m interested in Java, Machine Learnig, video game modding. Using software to automate processes and program robotics. 
 - 🌱 I’m currently learning Java and C++. 
